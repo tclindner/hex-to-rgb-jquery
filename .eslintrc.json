@@ -1,5 +1,9 @@
 {
   "extends": "eslint-config-tc",
+  "env": {
+    "browser": true,
+    "mocha": true
+  },
   "globals": {
     "one": true
   }
