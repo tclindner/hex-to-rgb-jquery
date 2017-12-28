@@ -20,7 +20,7 @@
     "url": "https://github.com/tclindner/hex-to-rgb-jquery.git"
   },
   "files": [
-    "src",
+    "dist",
     "CONTRIBUTING.md"
   ],
   "scripts": {
