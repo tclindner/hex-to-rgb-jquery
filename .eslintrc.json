@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-tc",
+  "globals": {
+    "one": true
+  }
+}
