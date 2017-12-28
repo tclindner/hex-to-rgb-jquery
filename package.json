@@ -19,6 +19,10 @@
     "type": "git",
     "url": "https://github.com/tclindner/hex-to-rgb-jquery.git"
   },
+  "files": [
+    "src",
+    "CONTRIBUTING.md"
+  ],
   "scripts": {
     "build": "npm run lint && npm run clean && npm run concat && npm run test",
     "clean": "rimraf dist && mkdir dist",
