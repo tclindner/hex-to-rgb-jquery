@@ -10,7 +10,7 @@
 
 ## What is hex-to-rgb-jquery?
 
-hex-to-rgb-jquery is a wrapper for onecolor that adjusts its response so it matches the rgb format jQuery returns.
+hex-to-rgb-jquery is a wrapper for onecolor that adjusts its response, so it matches the rgb format jQuery returns.
 
 ## Install
 
