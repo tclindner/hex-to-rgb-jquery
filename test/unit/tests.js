@@ -1,6 +1,4 @@
-'use strict';
-
-// eslint-disable-next-line no-var
+// eslint-disable-next-line no-var prefer-destructuring
 var hexToRgb = window.hexToRgbJquery.hexToRgb;
 
 describe('hex-to-rgb tests', function() {
