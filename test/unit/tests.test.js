@@ -1,4 +1,4 @@
-// eslint-disable no-var, prefer-destructuring
+/* eslint-disable no-var, prefer-destructuring */
 var hexToRgb = window.hexToRgbJquery.hexToRgb;
 
 describe('hex-to-rgb tests', function() {
