@@ -4,7 +4,7 @@
 
 [![license](https://img.shields.io/github/license/tclindner/hex-to-rgb-jquery.svg?maxAge=2592000&style=flat-square)](https://github.com/tclindner/hex-to-rgb-jquery/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/hex-to-rgb-jquery.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/hex-to-rgb-jquery)
-[![Travis](https://img.shields.io/travis/tclindner/hex-to-rgb-jquery.svg?maxAge=2592000?style=flat-square)](https://travis-ci.org/tclindner/hex-to-rgb-jquery)
+[![CircleCI](https://circleci.com/gh/tclindner/hex-to-rgb-jquery.svg?style=svg&circle-token=fc7379639647ff909c73532f7c00e7d6687ece73)](https://circleci.com/gh/tclindner/hex-to-rgb-jquery)
 [![Dependency Status](https://david-dm.org/tclindner/hex-to-rgb-jquery.svg?style=flat-square)](https://david-dm.org/tclindner/hex-to-rgb-jquery)
 [![devDependency Status](https://david-dm.org/tclindner/hex-to-rgb-jquery/dev-status.svg?style=flat-square)](https://david-dm.org/tclindner/hex-to-rgb-jquery#info=devDependencies)
 
