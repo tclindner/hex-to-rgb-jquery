@@ -43,4 +43,4 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
       - run: npm i
-      - run: npm run test:ci
+      - run: npm test
