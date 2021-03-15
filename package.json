@@ -36,7 +36,7 @@
     "onecolor": "^3.1.0"
   },
   "devDependencies": {
-    "chai": "^4.3.3",
+    "chai": "^4.3.4",
     "concat": "^1.0.3",
     "eslint": "^5.16.0",
     "eslint-config-tc": "^6.5.0",
